@@ -1,4 +1,4 @@
-# lunar-solar-birthday-calendar-generation
+# lunar-solar-birthday-calendar-generation_new
 Generate lunar or solar birthday calendar subscription file that can be added in Google Calendar or others.
 
 ---
